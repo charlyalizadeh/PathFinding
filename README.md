@@ -14,13 +14,13 @@ https://github.com/OneLoneCoder/videos/blob/master/olcConsoleGameEngine.h
   
 After this test I thought one of my algorithm had a problem because they didn't find the same solution. So I displayed the score and it showed that they just foound different path with the same score.
 
-![](readmeImages/DijkstraDiff)
-![](readmeImages/AStarDiff)
+![](readmeImages/DijkstraDiffi.PNG)
+![](readmeImages/AStarDiff.PNG)
 
 
 # Astar Vs Dijkstra on maze
 
 ![](readmeImages/DijkstraVSAstar.gif)
   
-![](readmeImages/DijkstraLot)
-![](readmeImages/AstarLot)
+![](readmeImages/DijkstraLot.gif)
+![](readmeImages/AstarLot.gif)
