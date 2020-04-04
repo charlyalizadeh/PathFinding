@@ -14,7 +14,7 @@ https://github.com/OneLoneCoder/videos/blob/master/olcConsoleGameEngine.h
   
 After this test I thought one of my algorithm had a problem because they didn't find the same solution. So I displayed the score and it showed that they just found different path with the same score.
 
-![](readmeImages/DijkstraDiffi.PNG)
+![](readmeImages/DijkstraDiff.PNG)
 ![](readmeImages/AStarDiff.PNG)
 
 
