@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\charl\source\repos\PathFinding\PathFinding\DijkstraAlg.h(19,19): warning C4018: '<' : incompatibilité signed/unsigned
-C:\Users\charl\source\repos\PathFinding\PathFinding\main.cpp(5,88): warning C4305: 'argument' : troncation de '__int64' à 'int'
-C:\Users\charl\source\repos\PathFinding\PathFinding\main.cpp(5,76): warning C4309: 'argument' : troncation de valeur de constante
-C:\Users\charl\source\repos\PathFinding\PathFinding\olcConsoleGameEngine.h(444): warning C4715: 'olcConsoleGameEngine::GetCaracterColor' : les chemins de contrôle ne retournent pas tous une valeur
-  PathFinding.vcxproj -> C:\Users\charl\source\repos\PathFinding\Debug\PathFinding.exe
